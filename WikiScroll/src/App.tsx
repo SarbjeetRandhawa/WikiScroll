@@ -122,7 +122,7 @@ function App() {
             <p className="text-white/70 mt-2">
               Check out the code on{" "}
               <a
-                href="https://github.com/SarbjeetRandhawa"
+                href="https://github.com/SarbjeetRandhawa/WikiScroll/tree/main/WikiScroll"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-white hover:underline"
